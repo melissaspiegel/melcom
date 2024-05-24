@@ -8,7 +8,7 @@ Your project's description...
 ## Installation
 
 ```sh
-npm i
+npm install
 ```
 
 ## Linting
