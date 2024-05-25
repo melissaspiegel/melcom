@@ -2,7 +2,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--melcom--melissaspiegel.hlx.page
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
