@@ -1,5 +1,5 @@
-# Your Project's Title...
-Melissa Spiegel's AEM Project
+# Melissa Spiegel's AEM Project
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
