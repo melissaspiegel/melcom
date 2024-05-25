@@ -29,6 +29,7 @@ function openOnKeydown(e) {
     // eslint-disable-next-line no-use-before-define
     toggleAllNavSections(focused.closest('.nav-sections'));
     focused.setAttribute('aria-expanded', dropExpanded ? 'false' : 'true');
+    console.log("hello");
   }
 }
 
