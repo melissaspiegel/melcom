@@ -3,7 +3,6 @@ import { createOptimizedPicture } from '../../scripts/aem.js';
 export default function decorate(block) {
   // Create a new unordered list (ul) element
   const ul = document.createElement('ul');
-  alert(ul);
 
   // Iterate over each child element (row) of the block
   [...block.children].forEach((row) => {
